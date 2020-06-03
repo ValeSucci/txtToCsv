@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "q7xDKfPqmQLbyqXe7QB7uy1xmnDwXaVsApzhfC2t8eeHE+5/LEku+cFYilTKPGVfjZTseFeVmmloOo2AGkagEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Documents\\Guyot\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.4\\microsoft.netcore.app.runtime.win-x86.3.1.4.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.4\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.4.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.4\\microsoft.aspnetcore.app.runtime.win-x86.3.1.4.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

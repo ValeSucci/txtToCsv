@@ -1,0 +1,13 @@
+C:\Users\Hp\Documents\Guyot\XFDFToCSV\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\XFDFToCSV.exe
+C:\Users\Hp\Documents\Guyot\XFDFToCSV\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\XFDFToCSV.deps.json
+C:\Users\Hp\Documents\Guyot\XFDFToCSV\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\XFDFToCSV.runtimeconfig.json
+C:\Users\Hp\Documents\Guyot\XFDFToCSV\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\XFDFToCSV.runtimeconfig.dev.json
+C:\Users\Hp\Documents\Guyot\XFDFToCSV\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\XFDFToCSV.dll
+C:\Users\Hp\Documents\Guyot\XFDFToCSV\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\XFDFToCSV.pdb
+C:\Users\Hp\Documents\Guyot\XFDFToCSV\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.csprojAssemblyReference.cache
+C:\Users\Hp\Documents\Guyot\XFDFToCSV\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\Guyot\XFDFToCSV\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.AssemblyInfo.cs
+C:\Users\Hp\Documents\Guyot\XFDFToCSV\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\Guyot\XFDFToCSV\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.dll
+C:\Users\Hp\Documents\Guyot\XFDFToCSV\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.pdb
+C:\Users\Hp\Documents\Guyot\XFDFToCSV\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.genruntimeconfig.cache
