@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Text.RegularExpressions;
+using System.Web;
 
 namespace XFDFToCSV
 {
@@ -17,8 +18,8 @@ namespace XFDFToCSV
             //string folderPath = Console.ReadLine();
            
             //string folderPath = "C:\\Users\\aaron.zeman1\\Desktop\\IDP"; //Aaron
-            string folderPath = "C:\\Users\\LENOVO\\Desktop\\IDP"; //Vale
-            //string folderPath = "C:\\Users\\Hp\\Documents\\Guyot\\IDP PDF\\FilesTxt2"; //yo
+            //string folderPath = "C:\\Users\\LENOVO\\Desktop\\IDP"; //Vale A
+            string folderPath = "D:\\ETTE\\IDP PDF\\FilesTxt3"; //Vale S
             Console.WriteLine("IDP Data Extraction Script - Last version 17/2/2020\n\nTo start the process, please make sure all txt files are in one folder. When the process is finished, this window will close and a CSV file called 'IDP_final_results.csv' will be created in the same folder of the txt files.\n\nThe txt folder path is '"+folderPath+"'");
 
             //Set the csv delimiters
@@ -58,7 +59,7 @@ namespace XFDFToCSV
                             pattern = @"<field name='" + label + @"'\r?\n><value\r?\n>((.|\r ?\n)*?)<\/value\r?\n><\/field\r?\n>";
                         }
 
-                        //get value between tags
+                        //get value between tags (each field)
                         string val = Regex.Match(text, pattern).Groups[1].Value;
 
 
@@ -72,11 +73,24 @@ namespace XFDFToCSV
 
 
                         //get each paragraph value from multiline. Delete line breaks, so each paragraph start with * (csv limitations)
-                        string strToReplace1 = "<p dir='ltr' style='margin-top:0pt;margin-bottom:0pt;font-family:Helvetica;font-size:12pt'\r\n>";
-                        string strToReplace2 = "</p\r\n>";
-                        string strToReplace3 = "<p dir='ltr' style='margin-top:0pt;margin-bottom:0pt;font-family:Helvetica;font-size:12pt'\n>";
-                        string strToReplace4 = "</p\n>";
-                        val = val.Replace(strToReplace1," *").Replace(strToReplace3, " *").Replace(strToReplace2," ").Replace(strToReplace4, " ").Replace("-"," -").Replace("\r\n", " *").Replace("\n", " *");
+                        if (isMultilineField)
+                        {
+                            string aux = val;
+                            val = "";
+                            string pattern2 = @"<p .*\r?\n>(.*)</p\r?\n>";
+                            MatchCollection paragraphs = Regex.Matches(aux, pattern2);
+                            foreach (Match p in paragraphs)
+                            {
+                                val += " *" + p.Groups[1].Value;
+                            }
+
+                        }
+
+                        //adding a blank space before "-" if it is at the beginning of a word (csv limitations) 
+                        val = Regex.Replace(val, @"\B-", " -");
+
+                        //decoding special characters like "&"
+                        val = HttpUtility.HtmlDecode(val);
 
 
                         //append value to result line
@@ -98,13 +112,11 @@ namespace XFDFToCSV
     }
 
     /*
-     * Eliminar las , o ; del texto (pdf) para manetener bien el csv? -> matar las comas
+     * Eliminar las , o ; del texto (pdf) para mantener bien el csv -> matar las comas
      * Saltos de línea en un mismo campo pueden ser eliminados o suplantados por algo (eg. |) -> * inicio
      * Delimitador de la fila actual es salto de línea
-     * Definir el formato de "--Select Option --" --> Vale mandar lista de estos cositos
      * 
      * El csv sale al mismo directorio (cambiar nombre o file?) -> IDP_final_results.csv
-     * Falta aniadir las secciones a los nombres!
      * Editar texto inicial? para q ingresen el directorio -> Vale lo redacta
      * 
      */

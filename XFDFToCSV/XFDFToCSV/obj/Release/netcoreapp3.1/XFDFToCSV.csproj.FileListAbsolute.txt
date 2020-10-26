@@ -11,3 +11,16 @@ C:\Users\Hp\Documents\Guyot\XFDFToCSV\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp
 C:\Users\Hp\Documents\Guyot\XFDFToCSV\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.dll
 C:\Users\Hp\Documents\Guyot\XFDFToCSV\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.pdb
 C:\Users\Hp\Documents\Guyot\XFDFToCSV\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.genruntimeconfig.cache
+D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\XFDFToCSV.exe
+D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\XFDFToCSV.deps.json
+D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\XFDFToCSV.runtimeconfig.json
+D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\XFDFToCSV.runtimeconfig.dev.json
+D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\XFDFToCSV.dll
+D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\XFDFToCSV.pdb
+D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.csprojAssemblyReference.cache
+D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.AssemblyInfoInputs.cache
+D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.AssemblyInfo.cs
+D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.csproj.CoreCompileInputs.cache
+D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.dll
+D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.pdb
+D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.genruntimeconfig.cache
