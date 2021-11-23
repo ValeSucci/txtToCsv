@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\Documents\\Guyot\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV.csproj": {}
+    "D:\\ETTE\\XFDFToCSV\\XFDFToCSV-2\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\Documents\\Guyot\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV.csproj": {
+    "D:\\ETTE\\XFDFToCSV\\XFDFToCSV-2\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\Documents\\Guyot\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV.csproj",
+        "projectUniqueName": "D:\\ETTE\\XFDFToCSV\\XFDFToCSV-2\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV.csproj",
         "projectName": "XFDFToCSV",
-        "projectPath": "C:\\Users\\Hp\\Documents\\Guyot\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV.csproj",
-        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\Documents\\Guyot\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV\\obj\\publish\\win-x86\\",
+        "projectPath": "D:\\ETTE\\XFDFToCSV\\XFDFToCSV-2\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "D:\\ETTE\\XFDFToCSV\\XFDFToCSV-2\\XFDFToCSV\\XFDFToCSV\\obj\\publish\\win-x86\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -37,6 +37,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -49,20 +55,16 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            },
-            {
               "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
-              "version": "[3.1.4, 3.1.4]"
+              "version": "[3.1.8, 3.1.8]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.win-x86",
-              "version": "[3.1.4, 3.1.4]"
+              "version": "[3.1.8, 3.1.8]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
-              "version": "[3.1.4, 3.1.4]"
+              "version": "[3.1.8, 3.1.8]"
             }
           ],
           "frameworkReferences": {
@@ -70,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

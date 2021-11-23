@@ -1,13 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "q7xDKfPqmQLbyqXe7QB7uy1xmnDwXaVsApzhfC2t8eeHE+5/LEku+cFYilTKPGVfjZTseFeVmmloOo2AGkagEw==",
+  "dgSpecHash": "6nZshJif3xOM6AKX8G5PTpJFzWOcQb4UYkMlKm2jG8JSROfjo4FE3kmBBeWUsJ1nr5f9q22UlWXTg8jZFe4aKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hp\\Documents\\Guyot\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV.csproj",
+  "projectFilePath": "D:\\ETTE\\XFDFToCSV\\XFDFToCSV-2\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.4\\microsoft.netcore.app.runtime.win-x86.3.1.4.nupkg.sha512",
-    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.4\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.4.nupkg.sha512",
-    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.4\\microsoft.aspnetcore.app.runtime.win-x86.3.1.4.nupkg.sha512",
-    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.2\\microsoft.netcore.platforms.1.0.2.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.targets\\1.0.6\\microsoft.netcore.targets.1.0.6.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\runtime.any.system.runtime\\4.1.1\\runtime.any.system.runtime.4.1.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.private.uri\\4.0.3\\system.private.uri.4.0.3.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.runtime\\4.1.1\\system.runtime.4.1.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.8\\microsoft.netcore.app.runtime.win-x86.3.1.8.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.8\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.8.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.8\\microsoft.aspnetcore.app.runtime.win-x86.3.1.8.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "runtime.any.System.Runtime 4.1.1 depende de System.Private.Uri (>= 4.0.2), pero no se encontró System.Private.Uri 4.0.2. Se resolvió una mejor coincidencia aproximada de System.Private.Uri 4.0.3.",
+      "libraryId": "System.Private.Uri",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1/win-x86"
+      ]
+    }
+  ]
 }
