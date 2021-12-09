@@ -17,10 +17,11 @@ D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\XFDF
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\XFDFToCSV.runtimeconfig.dev.json
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\XFDFToCSV.dll
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\XFDFToCSV.pdb
-D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.csprojAssemblyReference.cache
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.AssemblyInfoInputs.cache
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.AssemblyInfo.cs
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.csproj.CoreCompileInputs.cache
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.dll
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.pdb
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.genruntimeconfig.cache
+D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.csproj.AssemblyReference.cache
+D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\XFDFToCSV.GeneratedMSBuildEditorConfig.editorconfig

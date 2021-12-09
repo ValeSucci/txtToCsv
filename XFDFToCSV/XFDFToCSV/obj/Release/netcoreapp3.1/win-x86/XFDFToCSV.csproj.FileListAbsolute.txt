@@ -455,12 +455,10 @@ D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\win-
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\win-x86\hostfxr.dll
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\win-x86\hostpolicy.dll
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\win-x86\mscordaccore.dll
-D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\win-x86\mscordaccore_x86_x86_4.700.20.41105.dll
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\win-x86\mscordbi.dll
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\win-x86\mscorrc.debug.dll
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\win-x86\mscorrc.dll
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\win-x86\ucrtbase.dll
-D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\win-x86\XFDFToCSV.csprojAssemblyReference.cache
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\win-x86\XFDFToCSV.AssemblyInfoInputs.cache
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\win-x86\XFDFToCSV.AssemblyInfo.cs
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\win-x86\XFDFToCSV.csproj.CoreCompileInputs.cache
@@ -468,3 +466,5 @@ D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\win-
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\win-x86\XFDFToCSV.dll
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\win-x86\XFDFToCSV.pdb
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\win-x86\XFDFToCSV.genruntimeconfig.cache
+D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\win-x86\mscordaccore_x86_x86_4.700.21.51404.dll
+D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\obj\Release\netcoreapp3.1\win-x86\XFDFToCSV.GeneratedMSBuildEditorConfig.editorconfig

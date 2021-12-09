@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6nZshJif3xOM6AKX8G5PTpJFzWOcQb4UYkMlKm2jG8JSROfjo4FE3kmBBeWUsJ1nr5f9q22UlWXTg8jZFe4aKg==",
+  "dgSpecHash": "HPjNFpzz4zSST9ioICvYyOB5CXl/bFapniOhk/kthbnZK+JB1bUzBOq9jhjhn5mmm85bWoYNnxTSZibvu1+DGA==",
   "success": true,
   "projectFilePath": "D:\\ETTE\\XFDFToCSV\\XFDFToCSV-2\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV.csproj",
   "expectedPackageFiles": [
@@ -9,16 +9,16 @@
     "C:\\Users\\hp\\.nuget\\packages\\runtime.any.system.runtime\\4.1.1\\runtime.any.system.runtime.4.1.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.private.uri\\4.0.3\\system.private.uri.4.0.3.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.runtime\\4.1.1\\system.runtime.4.1.1.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.8\\microsoft.netcore.app.runtime.win-x86.3.1.8.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.8\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.8.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.8\\microsoft.aspnetcore.app.runtime.win-x86.3.1.8.nupkg.sha512"
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.21\\microsoft.netcore.app.runtime.win-x86.3.1.21.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.21\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.21.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.21\\microsoft.aspnetcore.app.runtime.win-x86.3.1.21.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "runtime.any.System.Runtime 4.1.1 depende de System.Private.Uri (>= 4.0.2), pero no se encontró System.Private.Uri 4.0.2. Se resolvió una mejor coincidencia aproximada de System.Private.Uri 4.0.3.",
+      "message": "runtime.any.System.Runtime 4.1.1 depends on System.Private.Uri (>= 4.0.2) but System.Private.Uri 4.0.2 was not found. An approximate best match of System.Private.Uri 4.0.3 was resolved.",
       "libraryId": "System.Private.Uri",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1/win-x86"
