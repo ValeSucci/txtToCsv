@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "fxy07bYp9VU/E63MYKTZi+9kee21dEYfpspdQ9Ud0EBnE//i9+kFYpJSl2NmR3Ow+qHnW9VUT6hWfGCvk3FBmg==",
+  "dgSpecHash": "MWO+sYSUCijN+nXSIt5sdW+lDw6bVNcK8BVi/Tf0OjuRD0QTMK0mpZrnht+6chGmLu4R933d/IbdR31vPhSDnA==",
   "success": true,
   "projectFilePath": "D:\\ETTE\\XFDFToCSV\\XFDFToCSV-2\\XFDFToCSV\\XFDFToCSV\\XFDFToCSV.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.2\\microsoft.netcore.platforms.1.0.2.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.targets\\1.0.6\\microsoft.netcore.targets.1.0.6.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\system.runtime\\4.1.1\\system.runtime.4.1.1.nupkg.sha512"
+    "C:\\Users\\hp\\.nuget\\packages\\system.runtime\\4.1.1\\system.runtime.4.1.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],
   "logs": []
 }

@@ -219,7 +219,7 @@ D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\publ
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\publish\hostfxr.dll
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\publish\hostpolicy.dll
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\publish\mscordaccore.dll
-D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\publish\mscordaccore_x86_x86_4.700.21.51404.dll
+D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\publish\mscordaccore_x86_x86_4.700.22.21202.dll
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\publish\mscordbi.dll
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\publish\mscorrc.debug.dll
 D:\ETTE\XFDFToCSV\XFDFToCSV-2\XFDFToCSV\XFDFToCSV\bin\Release\netcoreapp3.1\publish\mscorrc.dll
